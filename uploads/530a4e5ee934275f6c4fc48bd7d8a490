@@ -1,0 +1,3 @@
+procesos abierto y kill proceso en puerta
+netstat -ano | findstr :4200
+taskkill /PID 12345 /F
